@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/1999JD/aromatherapy-journal-frontend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:1999JD/aromatherapy-journal-api.git
